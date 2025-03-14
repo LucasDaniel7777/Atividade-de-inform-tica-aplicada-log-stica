@@ -1,5 +1,6 @@
 # Atividade-de-informática-aplicada-logística
 
+# Atividade 1 #
 # Lista sobre as organelas celulares #
 
 1- Mitocôndria
@@ -13,3 +14,12 @@
 5- Núcleo
 
 6- Nucléolo
+
+7- Complexo de Golgi
+
+8- RER
+
+9- REL
+
+# Atividade 2 #
+
