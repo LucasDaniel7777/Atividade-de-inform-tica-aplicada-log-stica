@@ -27,9 +27,7 @@
 |--------|---------|------------|
 | Daniel |   18    |   Padeiro  |
 |  Kauã  |   18    |  Estudante |
-|  Luã   |   19    |      
-
-
+|  Luã   |   19    |  Estudante |
 
 
 # Atividade 3
