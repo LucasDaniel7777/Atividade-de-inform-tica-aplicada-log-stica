@@ -1,4 +1,4 @@
-# Atividade-de-inform-tica-aplicada-log-stica
+# Atividade-de-informática-aplicada-logística
 
 # Lista sobre as organelas celulares #
 
