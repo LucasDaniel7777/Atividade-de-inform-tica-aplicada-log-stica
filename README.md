@@ -24,7 +24,13 @@
 # Atividade 2 #
 
 | Nome   |  Idade  |  Profissão |
----------------------------------
+|--------|---------|------------|
 | Daniel |   18    |   Padeiro  |
-  Kauã       18        Estudante
-  Luã        19         
+|  Kauã  |   18    |  Estudante |
+|  Luã   |   19    |      
+
+
+
+
+# Atividade 3
+
