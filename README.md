@@ -23,7 +23,5 @@
 
 # Atividade 2 #
 
- Nome   |  Idade  |  Profissão
-
-
+# Nome   |  Idade  |  Profissão
 Daniel  |   18    |   Padeiro
