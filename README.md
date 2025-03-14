@@ -32,3 +32,6 @@
 
 # Atividade 3
 
+![images](https://github.com/user-attachments/assets/6b6a2fef-3586-44ed-ac7d-8a580d64df39)
+
+# chorme://dino
