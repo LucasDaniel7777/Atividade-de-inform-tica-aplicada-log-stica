@@ -34,4 +34,5 @@
 
 ![images](https://github.com/user-attachments/assets/6b6a2fef-3586-44ed-ac7d-8a580d64df39)
 
-https://chorme://dino
+# Link
+https://globorural.globo.com/agricultura/soja/noticia/2025/03/disputa-entre-china-e-eua-eleva-premio-da-soja-em-portos-brasileiros.ghtml
